@@ -1,4 +1,5 @@
-### Hi there 👋
+### 自我介绍 👋
+我是来自19级网络工程4班的苏培霓，我的兴趣爱好不少，散步是其中一个。晚自习下课后与朋友一起在校园各处散步，放松心情是一段难忘的回忆；回家后，与母亲一起散步聊天，更是难得的共处。尽管之前因为疫情无法出门，但却在游戏中与朋友找回曾经的欢乐。在光遇这个游戏中，我又能与朋友们手牵手四处看风景，还能与我们共同喜爱的《小王子》互动。
 
 <!--
 **spn-kewo/spn-kewo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
